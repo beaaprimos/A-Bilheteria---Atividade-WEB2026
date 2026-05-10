@@ -1,6 +1,6 @@
 const inputNome = document.getElementById('nome');
 const botao = document.getElementById('btnadicionar');
-const listaUl = document.getElementById('lista'); // Cuidado com a letra maiúscula aqui
+const listaUl = document.getElementById('lista');
 const spanContador = document.getElementById('contador');
 
 let convidados = [];
